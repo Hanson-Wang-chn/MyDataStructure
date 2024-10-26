@@ -1,0 +1,7 @@
+# ninja log v5
+5	511	1715767286728535249	CMakeFiles/DynamicTable.dir/main.cpp.o	1a05a77338c3792f
+5	502	1715767286720277479	CMakeFiles/DynamicTable.dir/MyLinkedList.cpp.o	4f2308e1d0791dac
+5	492	1715767286707989636	CMakeFiles/DynamicTable.dir/Course.cpp.o	f58af7922b3d3198
+4	396	1715766895332140669	CMakeFiles/DynamicTable.dir/utility.cpp.o	22e1b363698c8cf7
+511	664	1715767286882838057	DynamicTable	6cd54e06108b2951
+5	491	1715767286707990844	CMakeFiles/DynamicTable.dir/AllCourses.cpp.o	fdf3c6af7daa28ba

@@ -1,0 +1,4 @@
+# ninja log v5
+0	345	1712287936518656352	CMakeFiles/CircularLinkedStack.dir/MyCircularLinkedList.cpp.o	32e96d1afbe2e048
+0	363	1712287936537512848	CMakeFiles/CircularLinkedStack.dir/main.cpp.o	dd410eccd0540cda
+363	400	1712287936574098572	CircularLinkedStack	be8c0c265b866e33

@@ -1,0 +1,9 @@
+# ninja log v5
+0	126	1715308653187666270	CMakeFiles/Tic_Tac_Toe.dir/Move.cpp.o	ec76a28b6d96114c
+0	427	1715308653485974068	CMakeFiles/Tic_Tac_Toe.dir/LinkedStack.cpp.o	b489272550392c73
+0	435	1715308653494331170	CMakeFiles/Tic_Tac_Toe.dir/main.cpp.o	d80e1602b9c3e67c
+0	436	1715308653494844572	CMakeFiles/Tic_Tac_Toe.dir/Board.cpp.o	d44a9e5ae95deb09
+436	2178	1715308655239057380	Tic_Tac_Toe	4b8ea76afda96fcf
+5	339	1715309526944975929	CMakeFiles/Tic_Tac_Toe.dir/Board.cpp.o	d44a9e5ae95deb09
+4	341	1715309526944976429	CMakeFiles/Tic_Tac_Toe.dir/main.cpp.o	d80e1602b9c3e67c
+341	378	1715309526986971283	Tic_Tac_Toe	4b8ea76afda96fcf

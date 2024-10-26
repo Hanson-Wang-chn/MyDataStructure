@@ -1,0 +1,8 @@
+# ninja log v5
+0	323	1710393526541925724	CMakeFiles/Airport.dir/MyQueue.cpp.o	4f3d342909922111
+4	455	1711429524103239797	CMakeFiles/Airport.dir/Plane.cpp.o	e9b47129e7689784
+4	110	1711430263973109500	CMakeFiles/Airport.dir/Random.cpp.o	593c49ca3142ff1e
+0	341	1710393526561992150	CMakeFiles/Airport.dir/Runway.cpp.o	88d11446cf99ad54
+2	378	1710393526599143084	CMakeFiles/Airport.dir/utility.cpp.o	1ace4a338479448a
+4	385	1710393719071341627	CMakeFiles/Airport.dir/main.cpp.o	2f610a5ab47ce425
+110	145	1711430264036667554	Airport	1ea64a929a835a2d

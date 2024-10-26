@@ -1,0 +1,14 @@
+# ninja log v6
+1	32	1718935310249703466	CMakeFiles/Binary_Tree.dir/Key.cpp.o	784b1276c319ba2f
+1	254	1718935500602595293	CMakeFiles/Binary_Tree.dir/MyQueue.cpp.o	7e72dff51056cbf1
+6	267	1718935533711996465	CMakeFiles/Binary_Tree.dir/Record.cpp.o	34e8e2ed3bce855e
+6	273	1718935714742846526	CMakeFiles/Binary_Tree.dir/Record.cpp.o	34e8e2ed3bce855e
+5	274	1718935844971662906	CMakeFiles/Binary_Tree.dir/Record.cpp.o	34e8e2ed3bce855e
+5	271	1718935863048749353	CMakeFiles/Binary_Tree.dir/Record.cpp.o	34e8e2ed3bce855e
+5	295	1718936057560161777	CMakeFiles/Binary_Tree.dir/main.cpp.o	8f2f18551495c7bc
+296	336	1718936057850850644	Binary_Tree	f9a873c87bbf246e
+5	286	1718936223833427598	CMakeFiles/Binary_Tree.dir/main.cpp.o	8f2f18551495c7bc
+286	341	1718936224114375895	Binary_Tree	f9a873c87bbf246e
+5	260	1718937168618277657	CMakeFiles/Binary_Tree.dir/MyQueue.cpp.o	7e72dff51056cbf1
+5	274	1718937168617935869	CMakeFiles/Binary_Tree.dir/main.cpp.o	8f2f18551495c7bc
+274	315	1718937168887316739	Binary_Tree	f9a873c87bbf246e

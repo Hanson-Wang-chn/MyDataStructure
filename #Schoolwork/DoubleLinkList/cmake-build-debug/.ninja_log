@@ -1,0 +1,5 @@
+# ninja log v5
+1	256	1715914730483481320	CMakeFiles/DoubleLinkList.dir/Node.cpp.o	1ccbc7a486e2024b
+403	577	1715914902709159173	DoubleLinkList	4170b26416f261c0
+4	331	1715914902463131000	CMakeFiles/DoubleLinkList.dir/LinkList.cpp.o	d49808b59b178e6e
+4	403	1715914902532595668	CMakeFiles/DoubleLinkList.dir/main.cpp.o	9bc386886c342dbb

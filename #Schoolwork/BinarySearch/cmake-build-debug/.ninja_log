@@ -1,0 +1,11 @@
+# ninja log v5
+1	35	1716518384199231799	CMakeFiles/BinarySearch.dir/List.cpp.o	ecd1c9d8db2552ec
+1	39	1716518384201793389	CMakeFiles/BinarySearch.dir/Key.cpp.o	76b4d956093b22d4
+1	289	1716518384451354208	CMakeFiles/BinarySearch.dir/Ordered_list.cpp.o	9e0e440031f798e3
+1	296	1716518384458908602	CMakeFiles/BinarySearch.dir/Record.cpp.o	25ea0d8f45496891
+4	271	1716518613014865584	CMakeFiles/BinarySearch.dir/main.cpp.o	99badc0cf4b33c0
+272	313	1716518613058796741	BinarySearch	7c1e1a72740c14a4
+4	272	1716518698864071992	CMakeFiles/BinarySearch.dir/main.cpp.o	99badc0cf4b33c0
+272	307	1716518698900365795	BinarySearch	7c1e1a72740c14a4
+3	261	1716518752205854729	CMakeFiles/BinarySearch.dir/main.cpp.o	99badc0cf4b33c0
+261	297	1716518752243455869	BinarySearch	7c1e1a72740c14a4

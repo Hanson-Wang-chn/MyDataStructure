@@ -1,0 +1,27 @@
+# ninja log v6
+384	416	1720663234356830856	PeopleList	c10f99fb000cbbe1
+5	329	1720663233977246496	CMakeFiles/PeopleList.dir/main.cpp.o	8879c5e83e12f7e8
+5	384	1720663233977498868	CMakeFiles/PeopleList.dir/List.cpp.o	acfde0dbca330c44
+6	3212	1720657326485860801	CMakeFiles/PeopleList.dir/Teacher.cpp.o	81d77a580a2e3e7
+7	3213	1720657326486054382	CMakeFiles/PeopleList.dir/Staff.cpp.o	34c46c7d8433daac
+6	3212	1720657326485459097	CMakeFiles/PeopleList.dir/Person.cpp.o	883fe6a3ad8ce3b5
+6	3209	1720657326485579054	CMakeFiles/PeopleList.dir/Student.cpp.o	80aca584c2690193
+5	310	1720663439624333156	CMakeFiles/PeopleList.dir/main.cpp.o	8879c5e83e12f7e8
+6	381	1720663439624633902	CMakeFiles/PeopleList.dir/List.cpp.o	acfde0dbca330c44
+381	411	1720663440000499351	PeopleList	c10f99fb000cbbe1
+4	343	1720663536229074209	CMakeFiles/PeopleList.dir/main.cpp.o	8879c5e83e12f7e8
+5	399	1720663536229398830	CMakeFiles/PeopleList.dir/List.cpp.o	acfde0dbca330c44
+399	429	1720663536623447549	PeopleList	c10f99fb000cbbe1
+5	314	1720663605291892965	CMakeFiles/PeopleList.dir/main.cpp.o	8879c5e83e12f7e8
+315	345	1720663605601493045	PeopleList	c10f99fb000cbbe1
+4	392	1720663658056577176	CMakeFiles/PeopleList.dir/List.cpp.o	acfde0dbca330c44
+394	428	1720663658446514114	PeopleList	c10f99fb000cbbe1
+4	381	1720663769430849464	CMakeFiles/PeopleList.dir/List.cpp.o	acfde0dbca330c44
+382	412	1720663769808536931	PeopleList	c10f99fb000cbbe1
+5	392	1720664388653071102	CMakeFiles/PeopleList.dir/List.cpp.o	acfde0dbca330c44
+395	425	1720664389042624878	PeopleList	c10f99fb000cbbe1
+20	544	1720665087387223396	CMakeFiles/PeopleList.dir/main.cpp.o	8879c5e83e12f7e8
+549	644	1720665087916628817	PeopleList	c10f99fb000cbbe1
+8	502	1720698388653667801	CMakeFiles/PeopleList.dir/main.cpp.o	8879c5e83e12f7e8
+8	569	1720698388654001126	CMakeFiles/PeopleList.dir/List.cpp.o	acfde0dbca330c44
+569	685	1720698389214390066	PeopleList	c10f99fb000cbbe1

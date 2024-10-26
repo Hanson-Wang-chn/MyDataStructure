@@ -1,0 +1,6 @@
+Teacher: Name: Baoyu Age: 37 Address: shanghai Tel: 86957106 Salary: 3500
+Staff: Name: Chenlin Age: 40 Address: qingdao Tel: 72245316 Hourly wages: 10
+Staff: Name: HuMing Age: 40 Address: tianjin Tel: 72245316 Hourly wages: 10
+Student: Name: LiuYin Age: 20 Address: shanghai Tel: 33578356 Level: 3 GPA: 0.3
+Teacher: Name: LiMing Age: 35 Address: beijing Tel: 86957106 Salary: 3500
+Person: Name: SunQi Age: 50 Address: shanghai Tel: 62223315

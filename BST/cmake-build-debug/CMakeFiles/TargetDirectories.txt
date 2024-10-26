@@ -1,0 +1,3 @@
+/Users/wanghaisheng/Desktop/Coding/MyDataStructure/BST/cmake-build-debug/CMakeFiles/BST.dir
+/Users/wanghaisheng/Desktop/Coding/MyDataStructure/BST/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wanghaisheng/Desktop/Coding/MyDataStructure/BST/cmake-build-debug/CMakeFiles/rebuild_cache.dir

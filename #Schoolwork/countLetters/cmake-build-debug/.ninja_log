@@ -1,0 +1,9 @@
+# ninja log v6
+0	303	1720058013854806790	CMakeFiles/countLetters.dir/main.cpp.o	f99c2cb76e3c1a0c
+305	350	1720058014159559081	countLetters	ff8c97cefec23784
+5	275	1720058120735872077	CMakeFiles/countLetters.dir/main.cpp.o	f99c2cb76e3c1a0c
+275	315	1720058121005425314	countLetters	ff8c97cefec23784
+4	268	1720058226791746175	CMakeFiles/countLetters.dir/main.cpp.o	f99c2cb76e3c1a0c
+268	307	1720058227055806907	countLetters	ff8c97cefec23784
+4	261	1720058244292419182	CMakeFiles/countLetters.dir/main.cpp.o	f99c2cb76e3c1a0c
+261	298	1720058244549845399	countLetters	ff8c97cefec23784

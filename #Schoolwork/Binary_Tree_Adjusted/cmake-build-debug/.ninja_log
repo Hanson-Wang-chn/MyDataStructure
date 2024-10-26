@@ -1,0 +1,9 @@
+# ninja log v6
+1	36	1718937694317047659	CMakeFiles/Binary_Tree_Adjusted.dir/Key.cpp.o	7d184ae7d3221941
+5	31	1718937909817577069	CMakeFiles/Binary_Tree_Adjusted.dir/MyStack.cpp.o	2f4cbcf98302107d
+1	266	1718937694317187200	CMakeFiles/Binary_Tree_Adjusted.dir/Record.cpp.o	e4a76823498a38bb
+7	39	1718938206368208622	CMakeFiles/Binary_Tree_Adjusted.dir/Binary_node.cpp.o	d3436e9ad9bc48ca
+5	29	1718938303677585781	CMakeFiles/Binary_Tree_Adjusted.dir/MyStack.cpp.o	2f4cbcf98302107d
+5	27	1718938337340148008	CMakeFiles/Binary_Tree_Adjusted.dir/MyQueue.cpp.o	2eb746383d5d3dc1
+7	269	1718938489190044067	CMakeFiles/Binary_Tree_Adjusted.dir/MyQueue.cpp.o	2eb746383d5d3dc1
+7	278	1718938489189898360	CMakeFiles/Binary_Tree_Adjusted.dir/Record.cpp.o	e4a76823498a38bb

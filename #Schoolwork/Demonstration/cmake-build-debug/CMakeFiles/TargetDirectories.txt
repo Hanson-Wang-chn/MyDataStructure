@@ -1,0 +1,3 @@
+/Users/wanghaisheng/Desktop/Coding/Schoolwork/Demonstration/cmake-build-debug/CMakeFiles/Demonstration.dir
+/Users/wanghaisheng/Desktop/Coding/Schoolwork/Demonstration/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/wanghaisheng/Desktop/Coding/Schoolwork/Demonstration/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,7 @@
+# ninja log v5
+3	3467	1714269863747246684	CMakeFiles/EightQueens.dir/main.cpp.o	2ccd88b0b18aab34
+1	349	1714211321514215208	CMakeFiles/EightQueens.dir/EightQueens.cpp.o	deb0b02a026f147f
+3467	5210	1714269865498282172	EightQueens	b825465b1d648d2d
+1	348	1717423780064261978	CMakeFiles/EightQueens.dir/main.cpp.o	a58f8a2bd2e61d1b
+1	350	1717423780065657194	CMakeFiles/EightQueens.dir/EightQueens.cpp.o	6628cb47e136412a
+350	393	1717423780111376461	EightQueens	e1b63c9f01ac9491

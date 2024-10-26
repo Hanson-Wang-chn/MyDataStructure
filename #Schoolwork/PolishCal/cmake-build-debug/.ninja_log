@@ -1,0 +1,6 @@
+# ninja log v5
+9	409	1709841407979164787	CMakeFiles/PolishCal.dir/main.cpp.o	42ed3f30e4000509
+9	419	1709841407989481536	CMakeFiles/PolishCal.dir/PolishCal.cpp.o	16972a40d5e440fc
+9	410	1709841407979824165	CMakeFiles/PolishCal.dir/MyStack.cpp.o	b0688dbd36ebf6c
+9	417	1709841407987435486	CMakeFiles/PolishCal.dir/utility.cpp.o	620790616f83205d
+419	461	1709841408032296534	PolishCal	ae2ec156abc18137

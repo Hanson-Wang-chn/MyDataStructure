@@ -1,0 +1,8 @@
+# ninja log v5
+12	301	1710559807256967589	CMakeFiles/LinkedStack.dir/MyLinkedStack.cpp.o	5ad5627e0fe1d913
+0	290	1710418982643394626	CMakeFiles/LinkedStack.dir/main.cpp.o	aa4fc840ed24e10
+302	471	1710559807426370228	LinkedStack	5bb53d1d69d1d907
+4	84	1712810837559418605	CMakeFiles/LinkedStack.dir/MyLinkedStack.cpp.o	5ad5627e0fe1d913
+85	127	1712810837642540368	LinkedStack	5bb53d1d69d1d907
+4	38	1713774107650755773	CMakeFiles/LinkedStack.dir/MyLinkedStack.cpp.o	5ad5627e0fe1d913
+38	77	1713774107691310913	LinkedStack	5bb53d1d69d1d907

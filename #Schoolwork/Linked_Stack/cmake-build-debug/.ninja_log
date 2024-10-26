@@ -1,0 +1,7 @@
+# ninja log v5
+1	330	1712813833103096596	CMakeFiles/Linked_Stack.dir/Linked_Stack.cpp.o	e4d0c18c714c338d
+0	336	1712813833108424877	CMakeFiles/Linked_Stack.dir/main.cpp.o	5719a596ef20aaf2
+336	372	1712813833145826966	Linked_Stack	59d23ca429002420
+4	354	1712814475386902924	CMakeFiles/Linked_Stack.dir/Linked_Stack.cpp.o	e4d0c18c714c338d
+3	355	1712814475388526449	CMakeFiles/Linked_Stack.dir/main.cpp.o	5719a596ef20aaf2
+355	505	1712814475537549065	Linked_Stack	59d23ca429002420
